@@ -1,0 +1,16 @@
+.author-container {
+    display: flex;
+    justify-content: space-between;
+}
+.author-info{
+    display: flex;
+    /* justify-content: space-between; */
+}
+.author-img{
+    height: 70px;
+    width: 70px;
+    margin-top: 15px;
+}
+.mark-as-read{
+    color: blue;
+}

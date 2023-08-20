@@ -1,0 +1,18 @@
+.home-container{
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+    gap: 20px;
+    
+    
+}
+.spendTime-info{
+    margin-bottom: 10px;
+    
+    background-color: #c1bcea;
+    color: #6047EC ;
+}
+.spendTime-book{
+ 
+    background-color: #ced4da;
+    color: #111111;
+}
